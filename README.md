@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sangeetashivannavar/Sangeetashivannavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![logo](https://github.com/Sangeetashivannavar/Sangeetashivannavar/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Sangeeta Shivannavar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
